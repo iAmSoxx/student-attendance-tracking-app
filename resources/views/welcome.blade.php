@@ -16,7 +16,7 @@
     <div class="min-h-screen flex flex-col items-center justify-center px-4 py-12">
         <!-- Header -->
         <div class="text-center mb-12">
-            <h1 class="text-4xl font-bold mb-4">Student Attendance Tracking App</h1>
+            <h1 class="text-4xl font-bold mb-4">Student Attendance Tracking System</h1>
             <p class="text-gray-400 max-w-xl mx-auto">
                 A simple and efficient system to help you monitor and manage student attendance with ease and accuracy.
             </p>
